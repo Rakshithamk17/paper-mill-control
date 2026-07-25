@@ -1,5 +1,4 @@
 # Paper Mill Intelligent Process Control System
-## Hackathon Solution: Grade Change Risk Prediction & Recommendation Engine
 
 **Problem:** During grade changes in paper machines, Basis Weight (target quality metric) frequently goes off-spec (±2.5%), causing waste and lost production. Operators lack predictive guidance before breaches occur.
 
